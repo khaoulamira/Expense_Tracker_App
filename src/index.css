@@ -1,0 +1,8 @@
+.hover-effect {
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.hover-effect:hover {
+    border-color: #d54309; /* Change to your desired border color */
+    box-shadow: 0 0 5px rgba(250, 104, 0, 0.886); /* Add a light orange shadow */
+}
